@@ -8,7 +8,7 @@ const Main = forwardRef((props, ref) => {
         <main ref={ref}>
             <Card
                 img= {{
-                    src:"public/assets/pp.jpg",
+                    src:"/assets/pp.jpg",
                     alt:"profile pic"
                 }}
                 title="Baptiste Klempka"
