@@ -2,10 +2,10 @@ const dataProjects = [
     {
         img: {
             src: ["src/assets/rewardsplus_gif.gif"],
-            alt: "profile pic"
+            alt: "rewardsplus pic"
         },
         title: "RewardsPlus",
-        shortdesc: "A reward system for servers",
+        shortdesc: "A reward system for Garry's Mod servers",
         desc: "RewardsPlus is a versatile Garry's Mod addon that boosts player engagement with customizable tasks, rewards, and giveaways. Easily manage and create giveaways with various prizes through an intuitive admin panel. Enhance your server's experience with dynamic player interactions.",
         cat: "GLua",
         link: "https://www.youtube.com/watch?v=BY6GEkdifh4",
@@ -13,7 +13,7 @@ const dataProjects = [
     {
         img: {
             src: ["src/assets/django1.png", "src/assets/django2.png", "src/assets/django3.png"],
-            alt: "profile pic"
+            alt: "trainingmanager pic"
         },
         title: "Training Manager",
         shortdesc: "An App Web with Django",
@@ -22,22 +22,22 @@ const dataProjects = [
     },
     {
         img: {
-            src: ["src/assets/pp.jpg"],
-            alt: "profile pic"
+            src: ["src/assets/welcome.webp"],
+            alt: "welcome pic"
         },
         title: "My Portfolio",
-        shortdesc: "Godot project",
-        desc: "Long Description",
+        shortdesc: "Take a look :)",
+        desc: "This portfolio was created with React JS",
         cat: "Web"
     },
     {
         img: {
-            src: ["src/assets/pp.jpg"],
-            alt: "profile pic"
+            src: ["src/assets/accessory2.png", "src/assets/accessory1.png"],
+            alt: "accessoryshop pic"
         },
-        title: "Short wizard",
-        shortdesc: "MoviePY",
-        desc: "Long Description",
+        title: "AccessoryShop",
+        shortdesc: "An accessory system for Garry's Mod servers",
+        desc: "AccessoryShop is a Garry’s Mod addon that lets players easily customize their character with hats, masks, and outfits through an intuitive wardrobe-style menu.",
         cat: "GLua"
     }
 ]
