@@ -1,7 +1,7 @@
 import "./Thumbnail.css"
 import React, { useState, useEffect, useRef } from "react"
 import { FadeInAnimation } from '../../animation/animation.js';
-import infoLogo from "../../../assets/info.png"
+import infoLogo from "./assets/info.png"
 import Slider from "../Slider/Slider"
 
 
