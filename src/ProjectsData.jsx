@@ -1,7 +1,7 @@
 const dataProjects = [
     {
         img: {
-            src: ["public/assets/rewardsplus_gif.gif"],
+            src: ["/assets/rewardsplus_gif.gif"],
             alt: "rewardsplus pic"
         },
         title: "RewardsPlus",
@@ -12,7 +12,7 @@ const dataProjects = [
     },
     {
         img: {
-            src: ["public/assets/django1.png", "public/assets/django2.png", "public/assets/django3.png"],
+            src: ["/assets/django1.png", "/assets/django2.png", "/assets/django3.png"],
             alt: "trainingmanager pic"
         },
         title: "Training Manager",
@@ -22,7 +22,7 @@ const dataProjects = [
     },
     {
         img: {
-            src: ["public/assets/welcome.webp"],
+            src: ["/assets/welcome.webp"],
             alt: "welcome pic"
         },
         title: "My Portfolio",
@@ -32,7 +32,7 @@ const dataProjects = [
     },
     {
         img: {
-            src: ["public/assets/accessory2.png", "public/assets/accessory1.png"],
+            src: ["/assets/accessory2.png", "/assets/accessory1.png"],
             alt: "accessoryshop pic"
         },
         title: "AccessoryShop",
