@@ -8,15 +8,13 @@ const Main = forwardRef((props, ref) => {
         <main ref={ref}>
             <Card
                 img= {{
-                    src:"/assets/pp.jpg",
+                    src:"/assets/pp.webp",
                     alt:"profile pic"
                 }}
                 title="Baptiste Klempka"
                 shortdesc="Fullstack Developper"
-                desc="Passionné par le développement logiciel,
-                j’ai acquis une expérience significative en tant que freelancer,
-                en développant des scripts en Lua et Python ainsi que des projets personnels,
-                notamment dans les domaines du jeu vidéo et des systèmes d’information. "
+                desc="Hey! I'm a computer science student and a passionate freelancer who loves creating custom solutions, whether it's Lua scripting for Garry's Mod, web development,
+                 or automating tasks with Python. I’m always excited to take on new challenges, so if you have a project in mind, feel free to reach out to me!"
             />
             
         </main>

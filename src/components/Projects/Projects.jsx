@@ -1,7 +1,7 @@
 import "./Projects.css"
-import data from "../../ProjectsData.jsx"
+import data from "../../ProjectsData"
 import React, { forwardRef } from "react"
-import Thumbnail from "../Thumbnail/Thumbnail.jsx"
+import Thumbnail from "../Thumbnail/Thumbnail"
 
 
 const Projects = forwardRef((props, ref) => {

@@ -13,6 +13,7 @@ export default function Header(props) {
         }
     }
 
+
     useEffect(() => {
         window.addEventListener('scroll', handleScroll);
         return () => window.removeEventListener('scroll', handleScroll);
@@ -33,8 +34,7 @@ export default function Header(props) {
                 <h2>PORTFOLIO</h2>
             </section>
             <section className="header-tabs">
-                <button onClick={scrollToMain}>ABOUT ME</button>
-                <button>RESUME</button>
+                <button onClick={scrollToMain}>ABOUT ME</button>          
                 <button onClick={scrollToProjects}>PROJECTS</button>
             </section>          
         </header>

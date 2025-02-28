@@ -9,7 +9,6 @@ export default function App() {
   const projectsRef = useRef(null);
   const mainRef = useRef(null);
 
-
   return (
     <>
       <Header projectsRef={projectsRef} mainRef={mainRef}/>

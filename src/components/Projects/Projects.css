@@ -12,5 +12,10 @@
     padding-top: 20px;
 }
   
-  
+.separator {
+    width: 30%;
+    height: 2px;
+    background-color: #000046;
+    border: none;
+}  
   

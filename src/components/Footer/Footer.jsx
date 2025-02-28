@@ -1,6 +1,6 @@
 import "./Footer.css"
 import Icon from "../Icon/Icon"
-import iconData from "../../IconData.jsx"
+import iconData from "../../IconData"
 
 export default function Footer(props) {
 
