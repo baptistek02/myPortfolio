@@ -31,6 +31,7 @@ const Projects = forwardRef((props, ref) => {
     
     return (
         <section ref={ref}>
+            <h1 className="title-projects">My Projects</h1>
             <form className="form-cat">
                 <label htmlFor="selectedCat">Select a category</label>
                 <select id="selectedCat" name="selectedCat" value={showCategory} onChange={(e) => handleSelection(e.target.value)}>

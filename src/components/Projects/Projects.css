@@ -4,12 +4,6 @@
     gap: 40px;
 
 }
-
-@media screen and (max-width: 768px) {
-    .projects-container {
-        grid-template-columns: 1fr;
-    }
-}
   
 .form-cat {
     display: flex;
@@ -24,4 +18,13 @@
     height: 2px;
     background-color: #000046;
     border: none;
-}  
+} 
+
+.title-projects {
+    padding-top: 30px;
+    color: #000046;
+    margin: 0; 
+    flex-grow: 1; 
+    text-align: center; 
+  }
+  
