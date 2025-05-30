@@ -39,6 +39,16 @@ const dataProjects = [
         shortdesc: "An accessory system for Garry's Mod servers",
         desc: "AccessoryShop is a Garry’s Mod addon that lets players easily customize their character with hats, masks, and outfits through an intuitive wardrobe-style menu.",
         cat: "GLua"
-    }
+    },
+    {
+        img: {
+            src: ["/assets/img_fit1.PNG", "/assets/img_fit2.PNG", "/assets/img_fit3.PNG", "/assets/img_fit4.PNG"],
+            alt: "fitness tracker pic"
+        },
+        title: "Fitness Tracker",
+        shortdesc: "Fitness tracking app built with React Native (Expo + TypeScript), Next.js API, and Supabase. Track workouts, create custom sessions, view progress charts, and manage user profiles.",
+        desc: "Developed a fitness tracking app using React Native, Next.js API routes, and Supabase. Features include workout tracking, custom sessions, progress visualization with React Chart.js, and user authentication. Gained experience in fullstack mobile development and API management.",
+        cat: "Web"
+    },
 ]
 export default dataProjects;
