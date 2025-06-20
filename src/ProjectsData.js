@@ -45,9 +45,9 @@ const dataProjects = [
             src: ["/assets/singlecell.jpg"],
             alt: "singlecell pic"
         },
-        title: "Singlecell Explorer",
+        title: "Singlecell Explorer For Skin Map",
         shortdesc: "Web app for exploring single-cell genetic data. Built with React TypeScript, Python (Anndata, LoomPy), Docker, and Plotly.js. Optimized for performance with caching and efficient API requests.",
-        desc: "Developed SingleCell Explorer for SkinMap, a web app for interactive visualization of single-cell genetic data. Processed large Loom and H5AD files with Anndata and LoomPy in Python, using server-side caching to speed up file access. Created dynamic, high-performance visualizations (boxplots, hexbins) with Plotly.js and D3.js, leveraging WebGL for smooth rendering. Optimized API requests by reducing payload sizes and implemented React Query for client-side caching and lazy loading. The app is containerized with Docker for easy deployment and reproducibility.",
+        desc: "SingleCell Explorer is a web app for interactive visualization of single-cell genetic data. Processed large Loom and H5AD files with Anndata and LoomPy in Python, using server-side caching to speed up file access. Created dynamic, high-performance visualizations with Plotly.js and D3.js, leveraging WebGL for smooth rendering. Optimized API requests by reducing payload sizes and implemented React Query for client-side caching.",
         cat: "Web"
     },
 ]
