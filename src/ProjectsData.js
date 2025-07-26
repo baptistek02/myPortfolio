@@ -50,5 +50,15 @@ const dataProjects = [
         desc: "SingleCell Explorer is a web app for interactive visualization of single-cell genetic data. Processed large Loom and H5AD files with Anndata and LoomPy in Python, using server-side caching to speed up file access. Created dynamic, high-performance visualizations with Plotly.js and D3.js. Optimized API requests by reducing payload sizes and implemented client-side caching (React Query).",
         cat: "Web"
     },
+    {
+        img: {
+            src: ["/assets/gymbuddies2.jpg", "/assets/gymbuddies1.jpg", "/assets/gymbuddies3.jpg"],
+            alt: "gymbuddies pic"
+        },
+        title: "Social Media Mobile App",
+        shortdesc: "A social mobile app built with React Native to share media, connect with friends, explore a feed, and enjoy a smooth user experience.",
+        desc: "A social mobile app built with React Native and Expo. Users can share images and videos, connect through friend suggestions and search, and explore a dynamic feed. Media is optimized (WebP/MP4), Supabase manages auth, storage, and APIs. React Query ensures fast and seamless UX.",
+        cat: "Web"
+    },
 ]
 export default dataProjects;
