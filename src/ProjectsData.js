@@ -57,7 +57,7 @@ const dataProjects = [
         },
         title: "Social Media Mobile App",
         shortdesc: "A social mobile app built with React Native to share media, connect with friends, explore a feed, and enjoy a smooth user experience.",
-        desc: "A social mobile app built with React Native and Expo. Users can share images and videos, connect through friend suggestions and search, and explore a dynamic feed. Media is optimized (WebP/MP4), Supabase manages auth, storage, and APIs. React Query ensures fast and seamless UX.",
+        desc: "A social mobile app built with React Native and Expo. Users can share media, add friends via search and suggestions, and explore a real-time feed. Media is optimized (WebP/MP4). Supabase handles auth and storage, while a Next.js backend manages optimized API routes. Fast UX with React Query.",
         cat: "Web"
     },
 ]
